@@ -2,7 +2,9 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/d3e86b9f-bcb2-4a51-9a6e-5690c2d110f4
+**URL**: https://lovable.dev/projects/d3e86b9f-bcb2-4a51-9a6e-**5690c2d110f4
+
+**Deployed Website**: https://bank-vault-owasp-lab.lovable.app/
 
 ## How can I edit this code?
 
